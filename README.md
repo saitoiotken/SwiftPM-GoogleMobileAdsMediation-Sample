@@ -1,0 +1,1 @@
+# SwiftPM-GoogleMobileAdsMediation-Sample
