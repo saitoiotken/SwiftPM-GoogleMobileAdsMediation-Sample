@@ -1,1 +1,5 @@
-# SwiftPM-GoogleMobileAdsMediation-Sample
+# GoogleMobileAdsMediationFluctSwiftPM
+
+GoogleMobileAdsMediationFluct SwiftPMにまつわるプロジェクトです
+
+Test
